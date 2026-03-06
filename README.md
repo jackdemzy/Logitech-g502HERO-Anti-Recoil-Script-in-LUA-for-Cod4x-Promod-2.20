@@ -1,0 +1,1 @@
+# Logitech-g502HERO-Anti-Recoil-Script-in-LUA-for-Cod4x-Promod-2.20
